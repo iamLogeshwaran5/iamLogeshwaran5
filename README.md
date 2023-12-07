@@ -1,4 +1,4 @@
-  ![Header](./header git.png)
+  ![Header](./.png)
 
 <h1 align="center">Hi 👋, I'm LOGESHWARAN C</h1>
 <h3 align="center">Data Scientist & Analytics Enthusiast </h3>
