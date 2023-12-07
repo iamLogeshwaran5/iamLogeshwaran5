@@ -1,7 +1,6 @@
   ![Header](./header.png)
 
-<h1 align="center">Hi 👋, I'm LOGESHWARAN C</h1>
-<h3 align="center">Data Scientist & Analytics Enthusiast </h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamlogeshwaran5&label=Profile%20views&color=0e75b6&style=flat" alt="iamlogeshwaran5" /> </p>
