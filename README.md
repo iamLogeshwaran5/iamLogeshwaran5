@@ -1,3 +1,7 @@
+
+![Header](./githubHeaderNew.png)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamlogeshwaran5&label=Profile%20views&color=0e75b6&style=flat" alt="iamlogeshwaran5" /> </p>
  💫 About Me:
 🌱 I’m currently learning python & data science<br>⚡ Fun fact
